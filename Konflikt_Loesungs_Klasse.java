@@ -4,7 +4,7 @@ public class Konflikt_Loesungs_Klasse
     private boolean Loesbarkeit;
     private int anzahlAenderungen;
     private int geloesteKonflikte;
-    
+    private int alterKonflikt;
     public Konflikt_Loesungs_Klasse()
     {
         anzahlKonflikte = 10;
@@ -18,5 +18,6 @@ public class Konflikt_Loesungs_Klasse
         Loesbarkeit = true;
         anzahlAenderungen = 10;
         geloesteKonflikte = 10;
+        alterKonflikt = 2000;
     }
 }
