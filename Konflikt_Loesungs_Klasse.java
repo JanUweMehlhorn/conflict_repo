@@ -10,6 +10,5 @@ public class Konflikt_Loesungs_Klasse
         anzahlKonflikte = 10;
         Loesbarkeit = true;
         anzahlAenderungen = 10;
-        geloesteKonflikte = 10;
     }
 }
