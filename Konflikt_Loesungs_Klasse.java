@@ -12,4 +12,11 @@ public class Konflikt_Loesungs_Klasse
         anzahlAenderungen = 10;
         geloesteKonflikte = 10;
     }
+    public Konflikt_Loesungs_Klasse(int neuAnzahlKonflikte)
+    {
+        anzahlKonflikte = neuAnzahlKonflikte;
+        Loesbarkeit = true;
+        anzahlAenderungen = 10;
+        geloesteKonflikte = 10;
+    }
 }
